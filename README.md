@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Olá a todos 👋
+meu nome é Diana, tenho 18 anos e atualmente estou fazendo faculdade de Sistema de Informação.
+Estou desempregada, mas vendo amigurumis sob encomenda;
+Gosto de jogos online, como Hunt: Showdown;
+Fato curioso sobre mim: meu hiperfoco é em animais, tinha vontade de fazer curso de veterinária, mas estou no T.I;
+Uso os pronomes: Ela/Dela;
+Sou praticamente casada;
+Tenho 6 gatos.
 <!--
 **NightAngel1227/NightAngel1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
